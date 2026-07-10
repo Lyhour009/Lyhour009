@@ -70,15 +70,6 @@ I'm a junior full-stack developer from Cambodia 🇰🇭 who loves turning ideas
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lyhour009&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyhour009&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
 ## Let's Connect
 
 I'm actively looking for opportunities to learn and grow as a developer — internships, junior positions, or open-source collaboration.
