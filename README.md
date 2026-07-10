@@ -14,8 +14,8 @@
 ### 🚀 About Me
 
 - 🎓 Currently building **RRMS** — a full-stack Room Rental Management System with Admin & Tenant portals
-- 💻 Comfortable across the stack — from React/Next.js frontends to Laravel backends
-- 🌱 Always learning — currently deep in Next.js App Router & Server Actions
+- 💻 Comfortable across the stack — React, Laravel, and React Native for web & mobile
+- 🌱 Always exploring new tools and better ways to build things
 - 🇰🇭 Based in Cambodia
 - ⚡ Fun fact: I like clean UI, dark mode, and well-structured code
 
