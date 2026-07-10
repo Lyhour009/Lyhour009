@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Kong Kemlyhour 👋
-### Full-Stack Developer | Next.js · React · Laravel · Supabase
+### Full-Stack Developer | React · Laravel · React Native
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?logo=vercel&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:lyhouromega855@gmail.com)
@@ -32,6 +32,12 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?logo=tailwindcss&logoColor=white" alt="Tailwind"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" alt="Redux"/>
+</p>
+
+**Mobile**
+
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" alt="React Native"/>
 </p>
 
 **Backend**
